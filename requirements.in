@@ -1,8 +1,8 @@
-aiopg==1.4.0
 aiosqlite==0.17.0
 annotated-types==0.5.0
 anyio==3.7.1
 async-timeout==4.0.3
+asyncpg==0.28.0
 cfgv==3.4.0
 click==8.1.7
 colorama==0.4.6
